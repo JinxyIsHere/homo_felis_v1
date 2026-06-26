@@ -1,0 +1,15 @@
+# Homo-Felis Repository Local Data Fence
+# Blocks local runtime telemetry from leaking to remote servers
+
+# Ignore the persistent crawler security logs
+crawler_patrol.log
+
+# Ignore local python runtime cache folders
+__pycache__/
+*.pyc
+
+# Ignore temporary operating system layout files
+.DS_Store
+Thumbs.db
+
+#ignore
