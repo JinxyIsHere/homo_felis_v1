@@ -32,20 +32,22 @@ This document serves as the official, ground-truth inventory manifest for your p
     * *Function:* The linear persistence pack. Connects the background crawler networks to an epigenetic neural logger to enable continuous forward identity migration, and encodes the high-velocity, fat-burning feline metabolism core.
 14. **`hf_longevity_stasis.fasta` (300 bp)**
     * *Function:* The homeostatic stasis and telomeric rejuvenation patch. Overwrites standard mammalian cellular decay matrices upon reaching optimal bone and tissue maturity. Emits continuous, background telomerase repair sequences to Somatic cells and triggers advanced antioxidant flushing to permanently eliminate oxidative aging stress. Maintains absolute physical stability until a pre-meditated ALCE expiration script is authorized by the administrator.
+15. **`hf_optical_shield.fasta` (240 bp)**
+    * *Function:* The translucent nictitating membrane eye-shield. Installs a horizontally sweeping third eyelid composed of an auto-polarizing, hyper-thin silica-keratin prism lens. Automatically deploys within milliseconds of detecting a harsh light flash, intense workspace glare, or ambient dust particles, protecting the high-amplification night-vision rod matrix without disrupting full-color visual clarity.
 
 ## 2. Infrastructure & Diagnostic Software Stack (.py / .log)
 
-15. **`read_all_blueprint.py`**
+16. **`read_all_blueprint.py`**
     * *Type:* Python Script. A completely dynamic repository crawler that automatically scans the folder, indexes every `.fasta` manifest, tracks base-pair counts, and handles local RNA transcriptions.
-16. **`hf_security_crawler.py`**
+17. **`hf_security_crawler.py`**
     * *Type:* Python Module. An independent background patrolling network that sweeps sequences for anomalies and streams timestamped event telemetry to persistent log files.
-17. **`hf_interface_streamer.py`**
+18. **`hf_interface_streamer.py`**
     * *Type:* Python Script. An automated USB data serializer (v2.0) that parses sequence weights, tracks file-name keywords, and flashes data packages down designated hardware pins.
-18. **`hf_admin_dashboard.py`**
+19. **`hf_admin_dashboard.py`**
     * *Type:* Python Script. Your centralized Command and Control terminal. Combines crawler sweeps, tri-channel health audits, the asynchronous Token Bucket handshake gate, and automated hardware streaming commands.
-19. **`hf_local_simulator.py`**
+20. **`hf_local_simulator.py`**
     * *Type:* Python Script. A pure-software sandbox simulator. Allows you to test your security crawlers, calculate random environmental mutations, and practice your administrative handshakes completely offline without hardware.
-20. **`hf_hardware_calibration.py`**
+21. **`hf_hardware_calibration.py`**
     * *Type:* Python Script. Circuit continuity tester. Systematically cycles through Pins D2, D3, and D4 to test electrical impedance across your living mycelial host board.
-21. **`crawler_patrol.log`**
+22. **`crawler_patrol.log`**
     * *Type:* Text Sheet. An immutable, persistent, and local system log sheet that automatically records time-stamped entries for every single background sweep, calibration pass, or security alert.
